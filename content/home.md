@@ -10,6 +10,13 @@ cats:
     name: Grumpy cat (Tardar Sauce)
   - name: asdfasdf
     description: asdfasdf
+dogs:
+  breeds:
+    - name: lab
+      description: cool
+    - name: hound
+      description: hunting dog
+  size: large
 ---
 
 Welcome to my awesome page about cats of the internet.
