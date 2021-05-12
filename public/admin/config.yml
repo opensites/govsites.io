@@ -24,3 +24,20 @@ collections:
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Description", name: "description", widget: "text" }
+          - label: "Dogs"
+            name: "dogs"
+            widget: object
+            fields:
+              - label: "Breeds"
+                name: "breeds"
+                widget: list
+                fields:
+                  - { label: "Name", name: "name", widget: "string" }
+                  - {
+                      label: "Description",
+                      name: "description",
+                      widget: "markdown",
+                    }
+              - label: "Size"
+                name: "size"
+                widget: "string"
