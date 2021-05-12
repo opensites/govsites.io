@@ -13,7 +13,7 @@ cats:
 dogs:
   breeds:
     - name: lab
-      description: cool
+      description: really happy
     - name: hound
       description: hunting dog
   size: large
