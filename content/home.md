@@ -18,6 +18,4 @@ dogs:
       description: hunting dog
   size: large
 ---
-Good morning!!!!
-
-This page is built with NextJS, and content is managed in Netlify CMS
+I am editing this page
