@@ -18,4 +18,4 @@ dogs:
       description: hunting dog
   size: large
 ---
-I am editing this page
+New announcement
